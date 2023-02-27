@@ -1,4 +1,4 @@
-# Exploring and Transforming JSON Schemas - Lab
+# JSON Schemas 
 
 # Introduction
 
